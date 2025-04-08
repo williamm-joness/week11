@@ -14,3 +14,14 @@ f = None # The variable called f is now holding no value
 age = 32 # The variable called age is now holding the integer value 32
 name = "William" # The variable called name is now holding the string value "William"
 instrument = "Piano" # The variable called instrument is now holding the string value "Piano"
+
+'''
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _)
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords
+
+$$$Variable = "bad"
+
+'''
