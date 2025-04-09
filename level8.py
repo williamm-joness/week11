@@ -1,0 +1,2 @@
+x = input() # When there is no prompt, the user may still input a value like normal
+print(3 + x) # When I try to add the user's input to an integer, terminal gives me an error saying I can't add a string to an integer. Therefore, even when the user inputs an integer, it is read as a string.
