@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+name_type = type(name)
+age = input("What is your age? ")
+age_type = type(age)
+print(name, name_type, age, age_type)
